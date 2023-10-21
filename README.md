@@ -13,6 +13,6 @@ $\huge{\color{purple}{\textsf{Methodology}}}$
 > Jupyter notebook `SpaceX_Project` explains:
 >   * Data Pre-processing  <br/>
 >   * Data Standardization  <br/>
->   * Search for the Hpyerparameter (best parameters) for supervised machine learning classifiers: `LogisticRegression`, `Support Vector Machine (SVM)`, `Decission Trees`, and `K Nearest Neighbor. <br/>
+>   * Search for the Hpyerparameter (best parameters) for supervised machine learning classifiers: `LogisticRegression`, `Support Vector Machine (SVM)`, `Decission Trees`, and `K Nearest Neighbor`. <br/>
 >   * Search for method that performs best using train-test data.
  
