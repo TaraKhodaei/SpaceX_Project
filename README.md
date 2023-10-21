@@ -8,6 +8,6 @@ In this project, we predict if the Falcon 9 first stage will land successfully b
 $\huge{\color{purple}{\textsf{Methodology}}}$
 >
 > * **Data collection** <br/>
->> The data was gathered from the `SpaceX API`, and Jupyter notebook `DataCollection_SpaceX_Project` explains the the process of data collection.
+>> The data was gathered from the `SpaceX API`, and Jupyter notebook `DataCollection_SpaceX_Project` explains the process of data collection.
 > * **Classification models to preform predective analysis** <br/>
 >> Jupyter notebook `SpaceX_Project` explains the the process of project.
