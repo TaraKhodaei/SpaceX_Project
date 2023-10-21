@@ -10,4 +10,9 @@ $\huge{\color{purple}{\textsf{Methodology}}}$
 > * **Data collection** <br/>
 >> The data was gathered from the `SpaceX API`, and Jupyter notebook `DataCollection_SpaceX_Project` explains the process of data collection.
 > * **Classification models to preform predective analysis** <br/>
->> Jupyter notebook `SpaceX_Project` explains the the process of project.
+> Jupyter notebook `SpaceX_Project` explains:
+>> Data Pre-processing 
+>> Data Standardization
+>> Search for the Hpyerparameter (best parameters) for classifiers of supervised Machine Learning: `LogisticRegression`, `Support Vector Machine (SVM)`, `Decission Trees`, and `K Nearest Neighbor`.
+>> Search for method that performs best using train-test data.
+ 
