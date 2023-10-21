@@ -16,3 +16,6 @@ $\huge{\color{purple}{\textsf{Methodology}}}$
 >   * Search for the Hpyerparameter (best parameters) for supervised machine learning classifiers: `LogisticRegression`, `Support Vector Machine (SVM)`, `Decission Trees`, and `K Nearest Neighbor`. <br/>
 >   * Search for method that performs best using train-test data.
  
+Special thanks to:
+
+* [Mona Hatami](https://github.com/monahatami1) for her mentoring course.
